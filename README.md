@@ -21,8 +21,7 @@ I'm Sulav Acharya, a freelance Full Stack Developer based in Nepal with over 4 y
 - 💻 .NET  
 - and much more...  
 
-## Projects 📂  
-![Repositories Count](https://img.shields.io/github/repo-count/sulavAchaya?label=Repositories&logo=github&color=4caf50)
+
 
 ## Contact Me 📬  
 - **Email:** codingsuyog@gmail.com  
